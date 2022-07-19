@@ -48,7 +48,7 @@
 /lookingforbugs.png https://cdn.discordapp.com/attachments/847347890522423367/936529339061780530/unknown.png
 
 # redirects^2
-/cr https://cass.run
+/cr/gh https://cass.run/gh
 
 #fallback
 /*              https://hanselwei.dev
