@@ -53,5 +53,8 @@
 # tools
 /todometer https://github.com/cassidoo/todometer
 
+# adventure
+/riverjam https://center.whitewater.org/things-to-do/events-live-music/river-jam/
+
 #fallback
 /*              https://hanselwei.dev
